@@ -1,0 +1,136 @@
+/* .App{
+    text-align: center;
+}
+.chair .btn1{
+
+    display:none;
+}
+.chair :hover .btn1{
+    display:block;
+    margin:auto;
+}
+a:visited,a:link{
+    color:black;
+    text-decoration: none;
+}
+/* Testimonial */
+/* .carousel-control-prev-icon,.carousel-control-next-icon{
+    color:black;
+    background-color: darkgray;
+    padding: 20px;
+}
+.carousel-control-prev-icon:hover{
+    background-color: green;
+}
+.carousel-control-next-icon:hover{
+    background-color: green;
+}  */
+
+
+/* ---------------------------------------------------------------------- */
+
+/* .App {
+    text-align: center;
+  }
+  
+  .row .btn1{
+    border-radius: 50%;
+    font-size: large;
+    display: none;
+  }
+  
+  
+  .row .cd:hover{
+    .btn{
+    display: block;
+    margin: auto;
+    transition: all 1s;
+    
+  }
+  }
+  
+  .row .cd:hover{
+     .immg{ */
+    /* background-color: rgba(128, 128, 128, 0.237); */
+    /* transform: scale(1.2); */
+    /* transform: translateY(-20px);
+    border-radius: 10px;
+    transition: all 1s ;
+  
+    }
+  
+  }
+  
+  .d-flex .card .btn1
+  {
+    display: none;
+  }
+  .d-flex .card:hover .btn1
+  {
+    display: block;  
+    margin: auto;
+  }
+  .carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: darkgrey;
+    border-radius: 50%;
+    padding: 20px;
+  }
+  
+  .carousel-control-prev-icon:hover{
+   
+      background-color: green;
+    
+  }
+  .carousel-control-next-icon:hover{
+   
+      background-color: green;
+    
+  } */
+
+   
+/* ---------------------------------------------------------------------- */
+
+.App {
+  text-align: center;
+}
+.row .card .btn1
+{
+  display: none;
+}
+.row .card:hover .btn1
+{
+  display: block;  
+  margin: auto;
+}
+a:link,a:visited
+{
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+.d-flex .card .btn1
+{
+  display: none;
+}
+.d-flex .card:hover .btn1
+{
+  display: block;  
+  margin: auto;
+}
+
+.carousel-control-prev-icon,.carousel-control-next-icon
+{
+  color: black;
+  border-radius: 50%;
+  background-color:darkgray;
+  padding: 20px;
+}
+.carousel-control-prev-icon:hover
+{
+  background-color: green;
+}
+.carousel-control-next-icon:hover
+{
+  background-color: green;
+}

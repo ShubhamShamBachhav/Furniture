@@ -1,0 +1,86 @@
+{
+  "chairs": [
+    {
+      "id": "1",
+      "images": "./images/product-3.png",
+      "name": "Nordiac Chair",
+      "price": 50,
+      "stock": 8,
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "images": "./images/product-1.png",
+      "name": "Nordiac Chair",
+      "price": 60,
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "images": "./images/product-2.png",
+      "name": "Kruzo Aero Chair",
+      "price": 78,
+      "stock": 4,
+      "qty": 1
+    },
+    {
+      "id": "4",
+      "images": "./images/product-3.png",
+      "name": "Ergonomic Chair",
+      "price": 43,
+      "stock": 6,
+      "qty": 1
+    },
+    {
+      "id": "5",
+      "images": "./images/product-3.png",
+      "name": "Nordiac Chair",
+      "price": 55,
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "6",
+      "images": "./images/product-1.png",
+      "name": "Nordiac Chair",
+      "price": 67,
+      "stock": 4,
+      "qty": 1
+    },
+    {
+      "id": "7",
+      "images": "./images/product-2.png",
+      "name": "Kruzo Aero Chair",
+      "price": 43,
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "8",
+      "images": "./images/product-3.png",
+      "name": "Ergonomic Chair",
+      "price": 70,
+      "stock": 3,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "images": "./images/product-2.png",
+      "name": "Kruzo Aero Chair",
+      "price": 78,
+      "stock": 4,
+      "qty": 1
+    },
+    {
+      "id": "1",
+      "images": "./images/product-3.png",
+      "name": "Nordiac Chair",
+      "price": 50,
+      "stock": 8,
+      "qty": 1
+    }
+  ]
+}
